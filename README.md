@@ -1,5 +1,6 @@
 # Welcome to Hacker Pancha Github Profile&nbsp;<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a>
 <br>
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%2331F7EA&center=true&lines=WELCOME+TO+MY+GITHUB;HI%2CI+am+Hacker+Pancha;Github+Tool+Maker;Simple+Application+Developer;Subscribe;Join+Our+Groups)](https://git.io/typing-svg)
 <p></p>
 <hr>
 <p>
