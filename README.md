@@ -10,4 +10,6 @@
 </p>
 <br>
 <h1>Hi,i am Hacker Pancha</h1>
+</html>
+<html>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%2331F7EA&center=true&lines=WELCOME+TO+MY+GITHUB;HI%2CI+am+Hacker+Pancha;Github+Tool+Maker;Simple+Application+Developer;Subscribe;Join+Our+Groups)](https://git.io/typing-svg)
