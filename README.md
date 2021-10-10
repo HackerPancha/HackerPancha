@@ -17,4 +17,4 @@
 
 
 <hr><hr>
-<a href="https://rb.gy/ylx79d"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://rb.gy/ylx79d"><img title="whatsapp 1" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
