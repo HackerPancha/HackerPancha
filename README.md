@@ -12,8 +12,7 @@
 <br>
 <h1>Hi,i am Hacker Pancha</h1>
 <div align="center">
-<img border-radius: 15px src="එහ්ජ්ජ්ජ්" width="200" height="200"/>
-<br>
+<a href="https://ibb.co/wMmMzgK"><img src="https://i.ibb.co/0hbhG2f/20220211-200942.jpg" alt="20220211-200942" border="0"></a><br /><br>
 <br>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
