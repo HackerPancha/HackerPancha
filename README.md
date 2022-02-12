@@ -20,3 +20,6 @@
 
 <hr><hr>
 <a href="https://rb.gy/ylx79d"><img title="whatsapp 1" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://ibb.co/103Sb9C"><img src="https://i.ibb.co/hgkqCKG/20220211-200851.jpg" alt="20220211-200851" border="0"></a>
+<a href="https://ibb.co/VJGvPgz"><img src="https://i.ibb.co/xXbMR1B/20220211-200809.jpg" alt="20220211-200809" border="0"></a>
+<a href="https://ibb.co/yYqMfFD"><img src="https://i.ibb.co/dLD3W4S/20220211-200557.jpg" alt="20220211-200557" border="0"></a><br /><a target='_blank' href='https://whatsmyscreenresolution.com/'>how to find size of computer screen</a><br />
