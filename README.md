@@ -12,7 +12,7 @@
 <br>
 <h1>Hi,i am Hacker Pancha</h1>
 <div align="center">
-<img border-radius: 15px src="https://telegra.ph/file/ff6fe0ce0fa165fbdbb62.jpg" width="200" height="200"/>
+<img border-radius: 15px src="එහ්ජ්ජ්ජ්" width="200" height="200"/>
 <br>
 <br>
 <p align="center">
