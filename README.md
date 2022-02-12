@@ -12,14 +12,13 @@
 <br>
 <h1>Hi,i am Hacker Pancha</h1>
 <div align="center">
-<a href="https://ibb.co/wMmMzgK"><img src="https://i.ibb.co/0hbhG2f/20220211-200942.jpg" alt="20220211-200942" border="0"></a><br /><br>
+<a href="https://ibb.co/wMmMzgK"><img src="https://i.ibb.co/0hbhG2f/20220211-200942.jpg" alt="20220211-200942" border="0"></a>
+<a href="https://ibb.co/103Sb9C"><img src="https://i.ibb.co/hgkqCKG/20220211-200851.jpg" alt="20220211-200851" border="0"></a>
+<a href="https://ibb.co/VJGvPgz"><img src="https://i.ibb.co/xXbMR1B/20220211-200809.jpg" alt="20220211-200809" border="0"></a>
+<a href="https://ibb.co/yYqMfFD"><img src="https://i.ibb.co/dLD3W4S/20220211-200557.jpg" alt="20220211-200557" border="0"></a>
 <br>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
 
 
 <hr><hr>
-<a href="https://rb.gy/ylx79d"><img title="whatsapp 1" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
-<a href="https://ibb.co/103Sb9C"><img src="https://i.ibb.co/hgkqCKG/20220211-200851.jpg" alt="20220211-200851" border="0"></a>
-<a href="https://ibb.co/VJGvPgz"><img src="https://i.ibb.co/xXbMR1B/20220211-200809.jpg" alt="20220211-200809" border="0"></a>
-<a href="https://ibb.co/yYqMfFD"><img src="https://i.ibb.co/dLD3W4S/20220211-200557.jpg" alt="20220211-200557" border="0"></a><br /><a target='_blank' href='https://whatsmyscreenresolution.com/'>how to find size of computer screen</a><br />
